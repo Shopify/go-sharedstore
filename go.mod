@@ -3,7 +3,7 @@ module github.com/Shopify/go-sharedstore
 go 1.15
 
 require (
-	github.com/Shopify/go-cache/v2 v2.0.1
+	github.com/Shopify/go-cache/v2 v2.1.0
 	github.com/Shopify/go-encoding v0.0.0-20210603144536-81562efe9ec0 // indirect
 	github.com/Shopify/goose v0.0.0-20210818131844-5a8aa466be4d
 	github.com/go-redis/redis/v8 v8.11.3 // indirect
