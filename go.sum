@@ -16,8 +16,8 @@ github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym
 github.com/DataDog/datadog-go v3.4.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
 github.com/Shopify/go-cache v0.0.0-20200326183119-49710f9722f8 h1:SKEHPPY5HhJovAUw5MxOC3bS+nqpXPB9GO4aIaY1aHQ=
 github.com/Shopify/go-cache v0.0.0-20200326183119-49710f9722f8/go.mod h1:EUBxWkCasqizTTLU7UCQU8LI2sQ0tOMX4WHnvUTPX5o=
-github.com/Shopify/go-cache/v2 v2.0.1 h1:9AK9aO7Qh61UcCbLcu0CbkCDTzix6wxIVNccemwmNzA=
-github.com/Shopify/go-cache/v2 v2.0.1/go.mod h1:G0lFRGygdWYC+xZVf45wEDknZaflLRWIqZwxoNxB43c=
+github.com/Shopify/go-cache/v2 v2.2.0 h1:OPmS0Ri5AzIf1iKHLcY+OyTuBfzaC8hl7S/udLvZZXU=
+github.com/Shopify/go-cache/v2 v2.2.0/go.mod h1:G0lFRGygdWYC+xZVf45wEDknZaflLRWIqZwxoNxB43c=
 github.com/Shopify/go-encoding v0.0.0-20210413141226-d94d2a4c0c86/go.mod h1:neZzKmI41SJZ/jRVHJU9nDBbtqCswPB0+Yfo+kgpMz0=
 github.com/Shopify/go-encoding v0.0.0-20210603144536-81562efe9ec0 h1:nh1pDgzTVSPZHxAGoOMoBntJ6fCwy+ROQnYsJGedEQ8=
 github.com/Shopify/go-encoding v0.0.0-20210603144536-81562efe9ec0/go.mod h1:wXuNDIngg3vdfDgJ75dIPegUGK7mZCb6gQAmmv+FJBM=
@@ -141,6 +141,7 @@ github.com/sirupsen/logrus v1.8.1 h1:dJKuHgqk1NNQlqoA6BTlM1Wf9DOH3NBjQyu0h9+AZZE
 github.com/sirupsen/logrus v1.8.1/go.mod h1:yWOB1SBYBC5VeMP7gHvWumXLIWorT60ONWic61uBYv0=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/objx v0.1.1/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/objx v0.2.0 h1:Hbg2NidpLE8veEBkEZTL3CvlkUIVzuU9jDplZO54c48=
 github.com/stretchr/objx v0.2.0/go.mod h1:qt09Ya8vawLte6SNmTgCsAVtYtaKzEcn8ATUoHMkEqE=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
